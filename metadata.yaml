@@ -1,0 +1,28 @@
+_repo: The-Sword-and-the-Atopen_26883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greenfield, Taylor H.
+    gutenberg_agent_id: '32300'
+    url: http://www.gutenberg.org/2009/agents/32300
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Medical fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Sword and the Atopen
+url: http://www.gutenberg.org/ebooks/26883
